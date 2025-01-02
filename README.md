@@ -1,2 +1,1 @@
-# udemy-kickstart-rust
- Udemy Rust
+# Rust
